@@ -45,7 +45,7 @@ The output file format is going to be a BED file. For each peak, it will give th
 # To download:
 To download our repository into your system, run the command:
 ```bash
-git clone https://github.com/hbcheng7/CSE185_FinalProject.git
+git clone https://github.com/g1cole/CSE185.git
 ```
 
 # Benchmarking 
